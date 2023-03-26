@@ -28,5 +28,5 @@ To call Helper.js use:
     
 ## More info
 
-For more info about stealth addresses read Vitalik's [post](https://vitalik.ca/general/2023/01/20/stealth.html).
+For more info about stealth addresses read Vitalik Buterin's [post](https://vitalik.ca/general/2023/01/20/stealth.html).
 
